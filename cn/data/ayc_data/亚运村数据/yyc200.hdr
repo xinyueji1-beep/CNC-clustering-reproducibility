@@ -1,0 +1,62 @@
+ENVI
+description = {
+  Create New File Result [Wed Oct 29 10:49:33 2008]}
+samples = 200
+lines   = 200
+bands   = 64
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 39
+y start = 472
+wavelength units = Unknown
+band names = {
+ Resize (Band 1:L33rec.bsq), Resize (Band 2:L33rec.bsq), 
+ Resize (Band 3:L33rec.bsq), Resize (Band 4:L33rec.bsq), 
+ Resize (Band 5:L33rec.bsq), Resize (Band 6:L33rec.bsq), 
+ Resize (Band 7:L33rec.bsq), Resize (Band 8:L33rec.bsq), 
+ Resize (Band 9:L33rec.bsq), Resize (Band 10:L33rec.bsq), 
+ Resize (Band 11:L33rec.bsq), Resize (Band 12:L33rec.bsq), 
+ Resize (Band 13:L33rec.bsq), Resize (Band 14:L33rec.bsq), 
+ Resize (Band 15:L33rec.bsq), Resize (Band 16:L33rec.bsq), 
+ Resize (Band 17:L33rec.bsq), Resize (Band 18:L33rec.bsq), 
+ Resize (Band 19:L33rec.bsq), Resize (Band 20:L33rec.bsq), 
+ Resize (Band 21:L33rec.bsq), Resize (Band 22:L33rec.bsq), 
+ Resize (Band 23:L33rec.bsq), Resize (Band 24:L33rec.bsq), 
+ Resize (Band 25:L33rec.bsq), Resize (Band 26:L33rec.bsq), 
+ Resize (Band 27:L33rec.bsq), Resize (Band 28:L33rec.bsq), 
+ Resize (Band 29:L33rec.bsq), Resize (Band 30:L33rec.bsq), 
+ Resize (Band 31:L33rec.bsq), Resize (Band 32:L33rec.bsq), 
+ Resize (Band 33:L33rec.bsq), Resize (Band 34:L33rec.bsq), 
+ Resize (Band 35:L33rec.bsq), Resize (Band 36:L33rec.bsq), 
+ Resize (Band 37:L33rec.bsq), Resize (Band 38:L33rec.bsq), 
+ Resize (Band 39:L33rec.bsq), Resize (Band 40:L33rec.bsq), 
+ Resize (Band 41:L33rec.bsq), Resize (Band 42:L33rec.bsq), 
+ Resize (Band 43:L33rec.bsq), Resize (Band 44:L33rec.bsq), 
+ Resize (Band 45:L33rec.bsq), Resize (Band 46:L33rec.bsq), 
+ Resize (Band 47:L33rec.bsq), Resize (Band 48:L33rec.bsq), 
+ Resize (Band 49:L33rec.bsq), Resize (Band 50:L33rec.bsq), 
+ Resize (Band 51:L33rec.bsq), Resize (Band 52:L33rec.bsq), 
+ Resize (Band 53:L33rec.bsq), Resize (Band 54:L33rec.bsq), 
+ Resize (Band 55:L33rec.bsq), Resize (Band 56:L33rec.bsq), 
+ Resize (Band 57:L33rec.bsq), Resize (Band 58:L33rec.bsq), 
+ Resize (Band 59:L33rec.bsq), Resize (Band 60:L33rec.bsq), 
+ Resize (Band 61:L33rec.bsq), Resize (Band 62:L33rec.bsq), 
+ Resize (Band 63:L33rec.bsq), Resize (Band 64:L33rec.bsq)}
+wavelength = {
+   462.100006,   473.799988,   486.200012,   498.299988,   510.100006,
+   522.299988,   535.200012,   547.299988,   559.599976,   571.900024,
+   584.200012,   596.099976,   608.200012,   620.299988,   632.400024,
+   644.500000,   657.799988,   669.599976,   681.400024,   692.799988,
+   704.799988,   716.299988,   727.799988,   739.200012,   750.599976,
+   761.700012,   772.799988,   783.799988,   794.700012,   805.599976,
+   816.200012,   826.799988,   837.400024,   847.700012,   857.900024,
+   868.099976,   878.099976,   888.000000,   897.700012,   907.299988,
+   916.799988,   926.000000,   935.200012,   944.200012,   953.200012,
+   962.000000,   970.700012,   978.400024,   987.500000,   995.700012,
+  1004.000000,  1012.000000,  1019.799988,  1027.599976,  1035.300049,
+  1042.400024,  1050.199951,  1057.000000,  1064.000000,  1070.800049,
+  1650.000000,  2215.000000,  4000.000000, 10250.000000}
