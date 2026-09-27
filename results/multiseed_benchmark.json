@@ -1,0 +1,241 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "summary": {
+    "Moons": {
+      "CNC_auto": {
+        "ARI_mean": 1.0,
+        "ARI_std": 0.0,
+        "K_values": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "CNC_oracleK": {
+        "ARI_mean": 1.0,
+        "ARI_std": 0.0,
+        "K_values": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "SNN_oracleK": {
+        "ARI_mean": 1.0,
+        "ARI_std": 0.0,
+        "K_values": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "KMeans_oracleK": {
+        "ARI_mean": 0.2492711509815284,
+        "ARI_std": 0.004749761356711482,
+        "K_values": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    "Circles": {
+      "CNC_auto": {
+        "ARI_mean": 1.0,
+        "ARI_std": 0.0,
+        "K_values": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "CNC_oracleK": {
+        "ARI_mean": 1.0,
+        "ARI_std": 0.0,
+        "K_values": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "SNN_oracleK": {
+        "ARI_mean": 1.0,
+        "ARI_std": 0.0,
+        "K_values": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "KMeans_oracleK": {
+        "ARI_mean": -0.0009202404053720723,
+        "ARI_std": 3.726010246142371e-05,
+        "K_values": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    },
+    "Blobs": {
+      "CNC_auto": {
+        "ARI_mean": 0.8393303482369874,
+        "ARI_std": 0.11928836793824821,
+        "K_values": [
+          4,
+          3,
+          4,
+          4,
+          3
+        ]
+      },
+      "CNC_oracleK": {
+        "ARI_mean": 0.9322216547803149,
+        "ARI_std": 0.05758882436391841,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "SNN_oracleK": {
+        "ARI_mean": 0.9327213247335381,
+        "ARI_std": 0.05788334127711084,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "KMeans_oracleK": {
+        "ARI_mean": 0.9346434549603373,
+        "ARI_std": 0.05615978409171801,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    },
+    "Aniso": {
+      "CNC_auto": {
+        "ARI_mean": 0.6910523773142447,
+        "ARI_std": 0.17448010345206189,
+        "K_values": [
+          3,
+          3,
+          5,
+          4,
+          3
+        ]
+      },
+      "CNC_oracleK": {
+        "ARI_mean": 0.7246231356065505,
+        "ARI_std": 0.18820855472005174,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "SNN_oracleK": {
+        "ARI_mean": 0.7343766609858615,
+        "ARI_std": 0.17596940569467143,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "KMeans_oracleK": {
+        "ARI_mean": 0.6541123000409541,
+        "ARI_std": 0.06176500539935649,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    },
+    "VariedBlobs": {
+      "CNC_auto": {
+        "ARI_mean": 0.9213236384260142,
+        "ARI_std": 0.11401902901308637,
+        "K_values": [
+          4,
+          4,
+          4,
+          3,
+          4
+        ]
+      },
+      "CNC_oracleK": {
+        "ARI_mean": 0.977238351493724,
+        "ARI_std": 0.008365231417810237,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "SNN_oracleK": {
+        "ARI_mean": 0.9730401406211631,
+        "ARI_std": 0.007637468351307909,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "KMeans_oracleK": {
+        "ARI_mean": 0.9400607265830235,
+        "ARI_std": 0.012779031068737899,
+        "K_values": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      }
+    }
+  }
+}

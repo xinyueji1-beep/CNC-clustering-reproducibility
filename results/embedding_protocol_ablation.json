@@ -1,0 +1,203 @@
+{
+  "seed": 0,
+  "synthetic": {
+    "Moons": {
+      "A_reuse_indep": {
+        "argmax": 2,
+        "K_final": 2,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      },
+      "B_indep_indep": {
+        "argmax": 2,
+        "K_final": 2,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      },
+      "C_reuse_reuse": {
+        "argmax": 2,
+        "K_final": 2,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      }
+    },
+    "Circles": {
+      "A_reuse_indep": {
+        "argmax": 2,
+        "K_final": 2,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      },
+      "B_indep_indep": {
+        "argmax": 2,
+        "K_final": 2,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      },
+      "C_reuse_reuse": {
+        "argmax": 2,
+        "K_final": 2,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      }
+    },
+    "Blobs": {
+      "A_reuse_indep": {
+        "argmax": 2,
+        "K_final": 4,
+        "seconds": 0.0,
+        "ARI": 0.8273,
+        "AMI": 0.7943
+      },
+      "B_indep_indep": {
+        "argmax": 3,
+        "K_final": 3,
+        "seconds": 0.0,
+        "ARI": 0.6513,
+        "AMI": 0.7218
+      },
+      "C_reuse_reuse": {
+        "argmax": 2,
+        "K_final": 2,
+        "seconds": 0.0,
+        "ARI": 0.3186,
+        "AMI": 0.5048
+      }
+    },
+    "Aniso": {
+      "A_reuse_indep": {
+        "argmax": 3,
+        "K_final": 3,
+        "seconds": 0.0,
+        "ARI": 0.6185,
+        "AMI": 0.6861
+      },
+      "B_indep_indep": {
+        "argmax": 3,
+        "K_final": 3,
+        "seconds": 0.0,
+        "ARI": 0.6185,
+        "AMI": 0.6861
+      },
+      "C_reuse_reuse": {
+        "argmax": 3,
+        "K_final": 3,
+        "seconds": 0.0,
+        "ARI": 0.6185,
+        "AMI": 0.6861
+      }
+    },
+    "VariedBlobs": {
+      "A_reuse_indep": {
+        "argmax": 4,
+        "K_final": 4,
+        "seconds": 0.0,
+        "ARI": 0.9789,
+        "AMI": 0.9687
+      },
+      "B_indep_indep": {
+        "argmax": 4,
+        "K_final": 4,
+        "seconds": 0.0,
+        "ARI": 0.9789,
+        "AMI": 0.9687
+      },
+      "C_reuse_reuse": {
+        "argmax": 4,
+        "K_final": 4,
+        "seconds": 0.0,
+        "ARI": 0.9789,
+        "AMI": 0.9687
+      }
+    },
+    "Gauss20D": {
+      "A_reuse_indep": {
+        "argmax": 5,
+        "K_final": 5,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      },
+      "B_indep_indep": {
+        "argmax": 5,
+        "K_final": 5,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      },
+      "C_reuse_reuse": {
+        "argmax": 5,
+        "K_final": 5,
+        "seconds": 0.0,
+        "ARI": 1.0,
+        "AMI": 1.0
+      }
+    },
+    "Digits": {
+      "A_reuse_indep": {
+        "argmax": 2,
+        "K_final": 9,
+        "seconds": 0.0,
+        "ARI": 0.7416,
+        "AMI": 0.8554
+      },
+      "B_indep_indep": {
+        "argmax": 3,
+        "K_final": 9,
+        "seconds": 0.0,
+        "ARI": 0.7416,
+        "AMI": 0.8554
+      },
+      "C_reuse_reuse": {
+        "argmax": 2,
+        "K_final": 9,
+        "seconds": 0.0,
+        "ARI": 0.7416,
+        "AMI": 0.8554
+      }
+    }
+  },
+  "hyperspectral": {
+    "IndianPines": {
+      "A_reuse_indep": {
+        "argmax": 14,
+        "K_final": 14,
+        "seconds": 0.0,
+        "ARI": 0.2097,
+        "AMI": 0.4242
+      },
+      "C_reuse_reuse": {
+        "argmax": 14,
+        "K_final": 14,
+        "seconds": 0.0,
+        "ARI": 0.2097,
+        "AMI": 0.4242
+      },
+      "note": "reduced two-way ablation (A vs C, the continuity-protocol contrast); protocol B (fully independent stability) omitted as prohibitive at this scale"
+    },
+    "AsianGamesVillage": {
+      "A_reuse_indep": {
+        "argmax": 20,
+        "K_final": 20,
+        "ARI": null,
+        "AMI": null,
+        "seconds": null,
+        "note": "A inherited from production run (interior maximum, HSS unchanged)"
+      },
+      "C_reuse_reuse": {
+        "argmax": 20,
+        "K_final": 20,
+        "seconds": 0.0,
+        "ARI": null,
+        "AMI": null
+      },
+      "note": "reduced two-way ablation (A vs C, the continuity-protocol contrast); protocol B (fully independent stability) omitted as prohibitive at this scale"
+    }
+  }
+}

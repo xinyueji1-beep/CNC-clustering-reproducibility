@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "N": 500,
+      "graph_seconds": 0.006,
+      "spectral_seconds": 0.038,
+      "stability_seconds": 0.739,
+      "nnz": 32220
+    },
+    {
+      "N": 1000,
+      "graph_seconds": 0.011,
+      "spectral_seconds": 0.062,
+      "stability_seconds": 0.975,
+      "nnz": 65148
+    },
+    {
+      "N": 2000,
+      "graph_seconds": 0.021,
+      "spectral_seconds": 0.124,
+      "stability_seconds": 1.374,
+      "nnz": 132520
+    },
+    {
+      "N": 4000,
+      "graph_seconds": 0.047,
+      "spectral_seconds": 0.296,
+      "stability_seconds": 1.483,
+      "nnz": 265980
+    }
+  ]
+}

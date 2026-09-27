@@ -1,17 +1,13 @@
-# PyCharm 配置与 Python 临时文件
+.venv/
 .idea/
 __pycache__/
 *.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
 
-# 不上传论文正文、PDF 和 LaTeX 模板
-/cn/paper/main.tex
-/cn/paper/main.pdf
-/en/CNC_CMC_submission.tex
-/en/CNC_CMC_submission.pdf
-/en/Definitions/
-
-# LaTeX 编译产生的临时文件
-*.aux
-*.log
-*.out
-*.synctex.gz
+CNC_Algorithms_*
+Definitions/
+attrib.sty
+build.bat
+build.sh

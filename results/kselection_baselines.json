@@ -1,0 +1,189 @@
+{
+  "seed": 0,
+  "datasets": {
+    "Moons": {
+      "true_K": 2,
+      "argmax": {
+        "K": 2,
+        "ARI": 1.0
+      },
+      "1-SE": {
+        "K": 2,
+        "ARI": 1.0
+      },
+      "eigengap": {
+        "K": 9,
+        "ARI": 0.232
+      },
+      "silhouette": {
+        "K": 2,
+        "ARI": 1.0
+      },
+      "HSS": {
+        "K": 2,
+        "ARI": 1.0
+      }
+    },
+    "Circles": {
+      "true_K": 2,
+      "argmax": {
+        "K": 2,
+        "ARI": 1.0
+      },
+      "1-SE": {
+        "K": 2,
+        "ARI": 1.0
+      },
+      "eigengap": {
+        "K": 6,
+        "ARI": 0.3328
+      },
+      "silhouette": {
+        "K": 2,
+        "ARI": 1.0
+      },
+      "HSS": {
+        "K": 2,
+        "ARI": 1.0
+      }
+    },
+    "Blobs": {
+      "true_K": 4,
+      "argmax": {
+        "K": 2,
+        "ARI": 0.3186
+      },
+      "1-SE": {
+        "K": 2,
+        "ARI": 0.3186
+      },
+      "eigengap": {
+        "K": 4,
+        "ARI": 0.8273
+      },
+      "silhouette": {
+        "K": 2,
+        "ARI": 0.3186
+      },
+      "HSS": {
+        "K": 4,
+        "ARI": 0.8273
+      }
+    },
+    "Aniso": {
+      "true_K": 4,
+      "argmax": {
+        "K": 3,
+        "ARI": 0.6185
+      },
+      "1-SE": {
+        "K": 3,
+        "ARI": 0.6185
+      },
+      "eigengap": {
+        "K": 7,
+        "ARI": 0.362
+      },
+      "silhouette": {
+        "K": 3,
+        "ARI": 0.6185
+      },
+      "HSS": {
+        "K": 3,
+        "ARI": 0.6185
+      }
+    },
+    "VariedBlobs": {
+      "true_K": 4,
+      "argmax": {
+        "K": 4,
+        "ARI": 0.9789
+      },
+      "1-SE": {
+        "K": 4,
+        "ARI": 0.9789
+      },
+      "eigengap": {
+        "K": 4,
+        "ARI": 0.9789
+      },
+      "silhouette": {
+        "K": 4,
+        "ARI": 0.9789
+      },
+      "HSS": {
+        "K": 4,
+        "ARI": 0.9789
+      }
+    },
+    "Gauss20D": {
+      "true_K": 5,
+      "argmax": {
+        "K": 5,
+        "ARI": 1.0
+      },
+      "1-SE": {
+        "K": 5,
+        "ARI": 1.0
+      },
+      "eigengap": {
+        "K": 5,
+        "ARI": 1.0
+      },
+      "silhouette": {
+        "K": 5,
+        "ARI": 1.0
+      },
+      "HSS": {
+        "K": 5,
+        "ARI": 1.0
+      }
+    },
+    "Digits": {
+      "true_K": 10,
+      "argmax": {
+        "K": 2,
+        "ARI": 0.0469
+      },
+      "1-SE": {
+        "K": 2,
+        "ARI": 0.0469
+      },
+      "eigengap": {
+        "K": 11,
+        "ARI": 0.8285
+      },
+      "silhouette": {
+        "K": 2,
+        "ARI": 0.0469
+      },
+      "HSS": {
+        "K": 9,
+        "ARI": 0.7416
+      }
+    },
+    "IndianPines": {
+      "true_K": 16,
+      "argmax": {
+        "K": 14,
+        "ARI": 0.2097
+      },
+      "1-SE": {
+        "K": 14,
+        "ARI": 0.2097
+      },
+      "eigengap": {
+        "K": 7,
+        "ARI": 0.2021
+      },
+      "silhouette": {
+        "K": 16,
+        "ARI": 0.2089
+      },
+      "HSS": {
+        "K": 14,
+        "ARI": 0.2097
+      }
+    }
+  }
+}

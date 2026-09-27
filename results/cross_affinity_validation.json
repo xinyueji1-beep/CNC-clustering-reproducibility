@@ -1,0 +1,334 @@
+{
+  "seed": 0,
+  "datasets": {
+    "Moons": {
+      "true_K": 2,
+      "CNC": {
+        "argmax": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "1-SE": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "eigengap": {
+          "K": 9,
+          "ARI": 0.232
+        },
+        "HSS": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "silhouette": {
+          "K": 2,
+          "ARI": 1.0
+        }
+      },
+      "RBF": {
+        "argmax": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "1-SE": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "eigengap": {
+          "K": 8,
+          "ARI": 0.2578
+        },
+        "HSS": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "silhouette": {
+          "K": 2,
+          "ARI": 1.0
+        }
+      }
+    },
+    "Circles": {
+      "true_K": 2,
+      "CNC": {
+        "argmax": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "1-SE": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "eigengap": {
+          "K": 6,
+          "ARI": 0.3328
+        },
+        "HSS": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "silhouette": {
+          "K": 2,
+          "ARI": 1.0
+        }
+      },
+      "RBF": {
+        "argmax": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "1-SE": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "eigengap": {
+          "K": 6,
+          "ARI": 0.3331
+        },
+        "HSS": {
+          "K": 2,
+          "ARI": 1.0
+        },
+        "silhouette": {
+          "K": 2,
+          "ARI": 1.0
+        }
+      }
+    },
+    "Blobs": {
+      "true_K": 4,
+      "CNC": {
+        "argmax": {
+          "K": 2,
+          "ARI": 0.3186
+        },
+        "1-SE": {
+          "K": 2,
+          "ARI": 0.3186
+        },
+        "eigengap": {
+          "K": 4,
+          "ARI": 0.8273
+        },
+        "HSS": {
+          "K": 4,
+          "ARI": 0.8273
+        },
+        "silhouette": {
+          "K": 2,
+          "ARI": 0.3186
+        }
+      },
+      "RBF": {
+        "argmax": {
+          "K": 2,
+          "ARI": 0.318
+        },
+        "1-SE": {
+          "K": 2,
+          "ARI": 0.318
+        },
+        "eigengap": {
+          "K": 4,
+          "ARI": 0.8138
+        },
+        "HSS": {
+          "K": 4,
+          "ARI": 0.8138
+        },
+        "silhouette": {
+          "K": 2,
+          "ARI": 0.318
+        }
+      }
+    },
+    "Aniso": {
+      "true_K": 4,
+      "CNC": {
+        "argmax": {
+          "K": 3,
+          "ARI": 0.6185
+        },
+        "1-SE": {
+          "K": 3,
+          "ARI": 0.6185
+        },
+        "eigengap": {
+          "K": 7,
+          "ARI": 0.362
+        },
+        "HSS": {
+          "K": 3,
+          "ARI": 0.6185
+        },
+        "silhouette": {
+          "K": 3,
+          "ARI": 0.6185
+        }
+      },
+      "RBF": {
+        "argmax": {
+          "K": 3,
+          "ARI": 0.6222
+        },
+        "1-SE": {
+          "K": 3,
+          "ARI": 0.6222
+        },
+        "eigengap": {
+          "K": 6,
+          "ARI": 0.418
+        },
+        "HSS": {
+          "K": 3,
+          "ARI": 0.6222
+        },
+        "silhouette": {
+          "K": 3,
+          "ARI": 0.6222
+        }
+      }
+    },
+    "VariedBlobs": {
+      "true_K": 4,
+      "CNC": {
+        "argmax": {
+          "K": 4,
+          "ARI": 0.9789
+        },
+        "1-SE": {
+          "K": 4,
+          "ARI": 0.9789
+        },
+        "eigengap": {
+          "K": 4,
+          "ARI": 0.9789
+        },
+        "HSS": {
+          "K": 4,
+          "ARI": 0.9789
+        },
+        "silhouette": {
+          "K": 4,
+          "ARI": 0.9789
+        }
+      },
+      "RBF": {
+        "argmax": {
+          "K": 4,
+          "ARI": 0.9736
+        },
+        "1-SE": {
+          "K": 4,
+          "ARI": 0.9736
+        },
+        "eigengap": {
+          "K": 4,
+          "ARI": 0.9736
+        },
+        "HSS": {
+          "K": 4,
+          "ARI": 0.9736
+        },
+        "silhouette": {
+          "K": 4,
+          "ARI": 0.9736
+        }
+      }
+    },
+    "Gauss20D": {
+      "true_K": 5,
+      "CNC": {
+        "argmax": {
+          "K": 5,
+          "ARI": 1.0
+        },
+        "1-SE": {
+          "K": 5,
+          "ARI": 1.0
+        },
+        "eigengap": {
+          "K": 5,
+          "ARI": 1.0
+        },
+        "HSS": {
+          "K": 5,
+          "ARI": 1.0
+        },
+        "silhouette": {
+          "K": 5,
+          "ARI": 1.0
+        }
+      },
+      "RBF": {
+        "argmax": {
+          "K": 5,
+          "ARI": 1.0
+        },
+        "1-SE": {
+          "K": 5,
+          "ARI": 1.0
+        },
+        "eigengap": {
+          "K": 5,
+          "ARI": 1.0
+        },
+        "HSS": {
+          "K": 5,
+          "ARI": 1.0
+        },
+        "silhouette": {
+          "K": 5,
+          "ARI": 1.0
+        }
+      }
+    },
+    "Digits": {
+      "true_K": 10,
+      "CNC": {
+        "argmax": {
+          "K": 2,
+          "ARI": 0.0469
+        },
+        "1-SE": {
+          "K": 2,
+          "ARI": 0.0469
+        },
+        "eigengap": {
+          "K": 11,
+          "ARI": 0.8285
+        },
+        "HSS": {
+          "K": 9,
+          "ARI": 0.7416
+        },
+        "silhouette": {
+          "K": 2,
+          "ARI": 0.0469
+        }
+      },
+      "RBF": {
+        "argmax": {
+          "K": 3,
+          "ARI": 0.1081
+        },
+        "1-SE": {
+          "K": 3,
+          "ARI": 0.1081
+        },
+        "eigengap": {
+          "K": 8,
+          "ARI": 0.7194
+        },
+        "HSS": {
+          "K": 8,
+          "ARI": 0.7194
+        },
+        "silhouette": {
+          "K": 2,
+          "ARI": 0.0469
+        }
+      }
+    }
+  }
+}
