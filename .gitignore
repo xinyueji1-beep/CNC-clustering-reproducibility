@@ -11,14 +11,3 @@ Definitions/
 attrib.sty
 build.bat
 build.sh
-
-# Exclude local artifacts from the updated code package
-code/gaoyun-2026/__pycache__/
-code/gaoyun-2026/.ipynb_checkpoints/
-code/gaoyun-2026/data/
-code/gaoyun-2026/results/
-code/gaoyun-2026/figures/
-code/gaoyun-2026/*.pdf
-code/gaoyun-2026/*.tex
-code/gaoyun-2026/*.doc
-code/gaoyun-2026/*.docx
